@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>A Day at the supermarket</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>20/03/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>I was at 38% on Python</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To get to 42% on Python</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> Yes I did reach my target</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>This lesson I worked more efficiently so got more done. This time because things were harder I stayed on task and did enough work to get my target. I stayed focus on the task ahead and got a lot of work and got to 42%. I used my same strategies as usual and also got further in Python.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>The thing that limited my learning was that the exercises got tougher and tougher so I took more time with them. I need to work faster and need to use my brain more to get more of the exercises done.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I will make sure to continue working fast and stay focused as it helped me do more work last lesson so it will help me in the future. My target for next lesson is going to be 46%.</td>
@@ -68,7 +68,7 @@ FRIDAY
 
 On Friday I only did the next exercise because I didn't have much time to do a lot. It was called Lists + Functions. This was very challenging as it took longer to do and it was hard for me to do because the coding had a lot in it for me to do but I finished it in 20 minutes.
 
-I didn't do any more as I had not time
+I didn't do any more as I had not time.
 
   
 
