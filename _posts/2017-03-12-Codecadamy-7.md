@@ -1,5 +1,5 @@
 ---
-title: Codecadamy 7
+title: First lesson Back YR 9
 layout: post
 author: aberagan.sriranjan
 permalink: /codecadamy-7/
@@ -8,52 +8,52 @@ published: true
 ---
 <table>
   <tr>
-    <th>Title</th>
-    <td>Built in Functions</td>
-    <th>Date</th>
-    <td>06/03/17</td>
+    <td>Title</td>
+    <td>First lesson Back</td>
+    <td>Date</td>
+    <td>11/09/17</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <th>Starting point:</th>
-    <td>I was at 28% on Python</td>
+    <td>Starting point:</td>
+    <td>We were going to get ready for the year</td>
   </tr>
   <tr>
-    <th>Target for this lesson?</th>
-    <td>To get to 32% on Python </td>
+    <td>Target for this lesson?</td>
+    <td>To learn about and make a code</td>
   </tr>
   <tr>
-    <th>Did I reach my target? 
-(add details to "Lesson Review")</th>
-    <td> Yes I did reach it.</td>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td>Yes I did</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <th>Lesson Review</th>
+    <td>Lesson Review</td>
   </tr>
   <tr>
-    <th>How did I learn? What strategies were effective? </th>
+    <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>This lesson I had a bit of trouble with a few exercises but I learnt how to do it by asking for help and then I got the answer by working it out with clues they gave. I used my same strategies as usual and also got further in Python..</td>
+    <td>This lesson we got started with our teacher telling us about the targets for the year and the teacher's expectations. We then started making our own code for the alphabet and then we did vlookup on Google sheets so we could put a word into a code.</td>
   </tr>
   <tr>
-    <th>What limited my learning? Which habits do I need to work on? </th>
+    <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I think the thing that limited my learning was that I got distracted at times and looked at what my partner was doing which was what I did for a while. I need to work on staying focused on what I was doing and not what my partner was doing.</td>
+    <td>I think the thing that limited my learning was that I got a bit confused on the way I was supposed use vlookup.</td>
   </tr>
   <tr>
-    <th>What will I change for next time? How will I improve my learning?</th>
+    <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will make sure that I stay focused on my work and stay on track. I will continue to use my strategies and I should work faster. My target for next lesson will be 35%. </td>
+    <td>Next time I will make sure that I stay focused on my work and try to understand what I am to do.My target for next lesson will be to do the things i said above.</td>
   </tr>
 </table>
 
