@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <th>Target for this lesson?</th>
-    <th>To be make sheets know what the next code is by doing something by using coding </th>
+    <td>To be make sheets know what the next code is by doing something by using coding </td>
   </tr>
   <tr>
     <th>Did I reach my target? 
